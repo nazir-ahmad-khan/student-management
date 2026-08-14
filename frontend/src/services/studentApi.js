@@ -1,5 +1,5 @@
 const API_URL =
-  "https://studentmanagement-nuliv69r.b4a.run/api/students";
+  "https://studentmanagement-sc6xtjyc.b4a.run/api/students";
 
 // =========================
 // POST - Create Student
