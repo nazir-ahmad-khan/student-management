@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/students";
+const API_URL =  "https://studentmanagement-nuliv69r.b4a.run/api/students";
 
 // =========================
 // POST - Create Student
