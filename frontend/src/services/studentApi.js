@@ -1,4 +1,5 @@
-const API_URL =  "https://studentmanagement-wbi1sz8d.b4a.run/api/students";
+const API_URL =
+  "https://studentmanagement-nuliv69r.b4a.run/api/students";
 
 // =========================
 // POST - Create Student
